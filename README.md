@@ -16,3 +16,9 @@ I have taken the help of youTube videos and some of the sites to complete this p
 
 I recommend you to use this project for educational purpose only. Donot use for other purpose.
 
+
+Please create two folders naming Images and data.
+
+In Images folder include all the images which you want to show in your project and add the path of desired image in the file you required to show. I hope you can edit the paths of images.
+Data folder is for  images which will be captured during taking photo sample.
+
